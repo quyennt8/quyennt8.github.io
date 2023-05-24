@@ -16,8 +16,8 @@ Trước đây, những blogger thường viết để chia sẻ những điều
 
 # Blog vui
 
-Để có thể phân biệt rõ ràng về blog và website thì có 2 yếu tố chính:
+Để có thể phân biệt rõ ràng về blog và website thì có 2 yếu tố chính:  
+* Blog được viết theo phong cách cá nhân của tác giả giống như viết dạng nhật ký – phong cách kể chuyện.
+* Về thiết kế thì blog được thiết kế theo nguyên tắc thường xuyên phát hành nội dung mới. Những nội dung mới này khi xuất bản sẽ nằm ở phần đầu của trang bài viết giúp người đọc có thể dễ dàng theo dõi những thay đổi của blog một cách dễ dàng – trong khi các trang web tĩnh hơn và thường không thay đổi theo thường xuyên.  
 
-    * Blog được viết theo phong cách cá nhân của tác giả giống như viết dạng nhật ký – phong cách kể chuyện.
-    * Về thiết kế thì blog được thiết kế theo nguyên tắc thường xuyên phát hành nội dung mới. Những nội dung mới này khi xuất bản sẽ nằm ở phần đầu của trang bài viết giúp người đọc có thể dễ dàng theo dõi những thay đổi của blog một cách dễ dàng – trong khi các trang web tĩnh hơn và thường không thay đổi theo thường xuyên.  
 Những giải thích ngắn gọn này giúp bạn có thể hiểu được sự khác biệt giữa blog và một trang web. Tiếp theo, Thiều sẽ đưa ra những lý do tạo sao bạn nên bắt đầu blog.
