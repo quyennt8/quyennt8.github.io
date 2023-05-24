@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chào blog mới"
-author: Lộc
+author: loc
 categories: [ tutorial ]
 image: assets/images/2023-05-24/cat.jpg
 ---
@@ -12,7 +12,8 @@ Blog là một trang web, được viết giống như một dạng nhật ký t
 
 Như vậy, blog đã được biết đến từ rất lâu rồi khác so với các trang web thì blog được viết theo phong cách cá nhân của _người viết_. **Thông thường**, sẽ được viết theo phong cách trò chuyện hoặc thân mật.
 
-![cutedog]({{ site.baseurl }}assets/images/2023-05-24/dog.jpg)
+![cutedog](/assets/images/2023-05-24/dog.jpg "Một chú cún cute")
+*Một chú cún cute*
 
 Trước đây, những blogger thường viết để chia sẻ những điều mà họ muốn viết giống như một cuốn nhật ký. Tuy nhiên, sau nhiều năm thì blog và một website cũng không có khác nhau nhiều lắm bởi nó được tối ưu nhằm mục đích là thu hút người đọc hoặc nhằm đạt được một số mục tiêu như xây dựng thương hiệu cá nhân hay kiếm tiền.
 
