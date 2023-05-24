@@ -10,7 +10,9 @@ Blog là một trang web, được viết giống như một dạng nhật ký t
 # Blog là gì?
 Blog là một trang web, được viết giống như một dạng nhật ký trực tuyến (bùng nổ từ cuối thập niên 1990). Các blogger thường là cá nhân hoặc nhóm nhỏ đưa thông tin lên mạng với mọi chủ đề, có liên quan tới kinh nghiệm hoặc ý kiến cá nhân và chủ yếu cung cấp thông tin đề cập tới những chủ đề chọn lọc.
 
-Như vậy, blog đã được biết đến từ rất lâu rồi khác so với các trang web thì blog được viết theo phong cách cá nhân của người viết. Thông thường, sẽ được viết theo phong cách trò chuyện hoặc thân mật.
+Như vậy, blog đã được biết đến từ rất lâu rồi khác so với các trang web thì blog được viết theo phong cách cá nhân của _người viết_. **Thông thường**, sẽ được viết theo phong cách trò chuyện hoặc thân mật.
+
+![cutedog]({{ site.baseurl }}assets/images/2023-05-24/dog.jpg)
 
 Trước đây, những blogger thường viết để chia sẻ những điều mà họ muốn viết giống như một cuốn nhật ký. Tuy nhiên, sau nhiều năm thì blog và một website cũng không có khác nhau nhiều lắm bởi nó được tối ưu nhằm mục đích là thu hút người đọc hoặc nhằm đạt được một số mục tiêu như xây dựng thương hiệu cá nhân hay kiếm tiền.
 
